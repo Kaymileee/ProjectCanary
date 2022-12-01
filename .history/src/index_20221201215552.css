@@ -25,11 +25,6 @@ code {
   text-align: left;
   overflow: hidden;
 }
-td,
-th {
-  border-top: 1px solid #ecf0f1;
-  padding: 10px;
-}
 
 td {
   border-left: 1px solid #ecf0f1;
@@ -41,5 +36,5 @@ th {
 }
 
 tr:nth-of-type(even) td {
-  background-color: #eee;
+  background-color: lighten(#4ecdc4, 35%);
 }

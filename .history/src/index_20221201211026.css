@@ -19,27 +19,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-.table {
-  width: 100%;
-  border-collapse: collapse;
-  text-align: left;
-  overflow: hidden;
-}
-td,
-th {
-  border-top: 1px solid #ecf0f1;
-  padding: 10px;
-}
-
-td {
-  border-left: 1px solid #ecf0f1;
-  border-right: 1px solid #ecf0f1;
-}
-
-th {
-  background-color: #4ecdc4;
-}
-
-tr:nth-of-type(even) td {
-  background-color: #eee;
-}

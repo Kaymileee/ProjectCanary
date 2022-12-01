@@ -6,7 +6,6 @@ import EditTVung from "./component/EditTuvung";
 import SignIn from "./component/SignIn";
 import Dashboard from "./component/Dashboard";
 import EditUser from "./component/EditUser";
-
 function App() {
   return (
     <div className="App">

@@ -41,5 +41,5 @@ th {
 }
 
 tr:nth-of-type(even) td {
-  background-color: #eee;
+  background-color: black;
 }
